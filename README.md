@@ -13,7 +13,7 @@ Materials provided:
     - [Part B. SAS analytics using Python syntax](https://colab.research.google.com/drive/1O5nhWmlLESkzvMJNdrZlHmxUW_OcBpWB#offline=true&sandboxMode=true)
     - [Part C. Dataset Explorer Demo](https://github.com/saspy-bffs/dataset-explorer)
 
-  - [Slides](slides/Slides-Westat_20220623_Webinar-Everything_Is_Better_With_Friends) as a PDF file
+  - [Slides](slides/Slides-Westat_20220623_Webinar-Everything_Is_Better_With_Friends.pdf) as a PDF file
 
 
 ## Accounts Needed
